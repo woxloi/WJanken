@@ -1,0 +1,9 @@
+name: WJanken
+version: '1.0-SNAPSHOT'
+main: github.com.woxloi.janken.main
+api-version: '1.19'
+authors: [ woxloi ]
+commands:
+  janken:
+    description: じゃんけんをするコマンド
+    usage: /janken <gu|choki|pa>
