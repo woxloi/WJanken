@@ -1,2 +1,2 @@
-## JankenPlugins
+## JankenPlugin
 開発中
